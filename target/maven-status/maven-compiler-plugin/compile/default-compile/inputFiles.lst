@@ -1,0 +1,6 @@
+/Users/PodeumINC/IdeaProjects/DotAiTest/src/main/java/com/dotai/test/DotAiApplication.java
+/Users/PodeumINC/IdeaProjects/DotAiTest/src/main/java/com/dotai/test/controller/TransactionController.java
+/Users/PodeumINC/IdeaProjects/DotAiTest/src/main/java/com/dotai/test/entities/Transaction.java
+/Users/PodeumINC/IdeaProjects/DotAiTest/src/main/java/com/dotai/test/repositories/TransactionRepository.java
+/Users/PodeumINC/IdeaProjects/DotAiTest/src/main/java/com/dotai/test/scheduler/DotAiScheduler.java
+/Users/PodeumINC/IdeaProjects/DotAiTest/src/main/java/com/dotai/test/service/TransactionService.java

@@ -1,0 +1,6 @@
+com/dotai/test/scheduler/DotAiScheduler.class
+com/dotai/test/service/TransactionService.class
+com/dotai/test/controller/TransactionController.class
+com/dotai/test/entities/Transaction.class
+com/dotai/test/DotAiApplication.class
+com/dotai/test/repositories/TransactionRepository.class
